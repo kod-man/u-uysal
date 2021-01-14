@@ -2,17 +2,14 @@
 
 ### I'm a Developer and Teacher!!
 
-<!--
-**u-uysal/u-uysal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Issue Tracker](https://github.com/KodstarBootcamp/issue-tracker-2020-1) 
 - 🌱 I’m currently learning React Native
 - 🤔 I'm looking to join an experienced team!
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play volleyball and table tennis
--->
+
 ![](https://komarev.com/ghpvc/?username=u-uysal)
 
 
