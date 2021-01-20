@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on [Issue Tracker](https://github.com/KodstarBootcamp/issue-tracker-2020-1) 
+
 - 🌱 I’m currently learning React Native
 - 🤔 I'm looking to join an experienced team!
 - 🥅 2021 Goals: Contribute more to Open Source projects
