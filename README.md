@@ -5,8 +5,7 @@
 
 
 
-- 🌱 I’m currently learning VueJS
-- 🤔 I'm looking to join an experienced team!
+- 🌱 I’m currently learning Graphql
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play volleyball and table tennis
 
