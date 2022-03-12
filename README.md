@@ -5,8 +5,8 @@
 
 
 
-- 🌱 I’m currently learning Graphql
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning NestJs
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play volleyball and table tennis
 
 ![](https://komarev.com/ghpvc/?username=u-uysal)
