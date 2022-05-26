@@ -12,7 +12,11 @@
 ![](https://komarev.com/ghpvc/?username=u-uysal)
 
 
+## <summary>:bulb: Github Stats</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=u-uysal&theme=dark" >
 
+## <summary>:bulb:  Most Used Languages</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=u-uysal&layout=compact&theme=dark" >
 
 <br />
 <br />
