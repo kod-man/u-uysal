@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning NestJs
+- 🌱 I’m currently learning .NET 5
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play volleyball and table tennis
 
